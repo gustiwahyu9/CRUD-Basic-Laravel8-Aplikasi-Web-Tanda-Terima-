@@ -1,6 +1,6 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
-<a href="#"><img src="https://drive.google.com/thumbnail?id=https://drive.google.com/thumbnail?id=1BpsSv9KCl9E2TJvMgBUM9u0EHYk01nzH" width="400"></a>
-<a href="#"><img src="https://drive.google.com/thumbnail?id=https://drive.google.com/thumbnail?id=1wNpZ43aQXHPneGAV5uv4_0QBViyoWISz" width="400"></a>
+<a href="#"><img src="https://drive.google.com/thumbnail?id=1BpsSv9KCl9E2TJvMgBUM9u0EHYk01nzH" width="400"></a>
+<a href="#"><img src="https://drive.google.com/thumbnail?id=1wNpZ43aQXHPneGAV5uv4_0QBViyoWISz" width="400"></a>
 
 
 
