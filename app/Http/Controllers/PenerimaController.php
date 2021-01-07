@@ -15,6 +15,8 @@ class PenerimaController extends Controller
         $penerima = \App\Penerima::all();
         if ($request->has('cari')) {
             $penerima = \App\Penerima::where('lpj_bulan', 'LIKE', '%' . $request->cari . '%')->get();
+            $penerima = \App\Penerima::where('satker', 'LIKE', '%' . $request->cari . '%')->get();
+            $penerima = \App\Penerima::where('nama_lengkap', 'LIKE', '%' . $request->cari . '%')->get();
         } else {
             $penerima = \App\Penerima::all();
         }

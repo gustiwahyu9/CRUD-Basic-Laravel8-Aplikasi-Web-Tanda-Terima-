@@ -63,7 +63,7 @@
                     <a href="/penerima/exportpdf" class="btn btn-md btn-primary" style="float: right;"><i class="fas fa-print"></i> Export PDF</a>
                   <form action="/penerima" method="GET">
                     <div class="input-group md-form form-sm form-2 pl-0 mb-2">
-                      <input class="form-control my-0 py-1" type="text" name="cari" placeholder="Search by bulan..." aria-label="Search">
+                      <input class="form-control my-0 py-1" type="text" name="cari" placeholder="Search by..." aria-label="Search">
                       <div class="input-group-append">
                         <span class="input-group-text cyan lighten-2" id="basic-text1"><i class="fas fa-search text-grey"
                             aria-hidden="true"></i></span>
